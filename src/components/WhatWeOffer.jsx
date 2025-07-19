@@ -41,9 +41,7 @@ const WhatWeOffer = () => {
             ))}
           </div>
 
-          <Link to="/services" className="service-link">
-            Explore all services →
-          </Link>
+          <Link className="service-link">Explore all services →</Link>
         </div>
       </div>
 
